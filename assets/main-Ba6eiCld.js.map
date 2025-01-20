@@ -1,1 +1,0 @@
-{"version":3,"file":"main-Ba6eiCld.js","sources":["../../src/js/2-galerry.js"],"sourcesContent":["function add(a, b, c) {\n  return `Result: ${a + b + c}`;\n    \n    \n}\n\n\nconsole.log(add(1,2,3));"],"names":["add","a","b","c"],"mappings":"gCAAA,SAASA,EAAIC,EAAGC,EAAGC,EAAG,CACpB,MAAO,WAAWF,EAAIC,EAAIC,CAAC,EAG7B,CAGA,QAAQ,IAAIH,EAAI,EAAE,EAAE,CAAC,CAAC"}
